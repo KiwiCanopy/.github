@@ -17,8 +17,10 @@ Each tool does one tedious thing well, and gets out of your way.
 proud of. A friendly résumé builder that turns your experience into
 a clean, modern CV, without wrestling a word processor.
 
-🌱 *Something new is ripening.* A fresh kiwi for calmer, tidier
-days, growing quietly in the grove. Ripe before you know it.
+**[KiwiDesk](https://kiwidesk.kiwicanopy.com)** — keep your Mac
+windows tidy without arranging them by hand. A friendly tiling
+window manager that starts simple and grows into powerful layouts,
+profiles, and Lua when you're ready.
 
 ---
 
