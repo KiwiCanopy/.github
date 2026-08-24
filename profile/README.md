@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KiwiCanopy/KiwiCanopy-web/main/public/brand/KiwiCanopy.png" alt="KiwiCanopy" width="160">
+<img src="https://raw.githubusercontent.com/KiwiCanopy/.github/main/profile/KiwiCanopy.png" alt="KiwiCanopy" width="160">
 
 # KiwiCanopy
 
@@ -41,6 +41,6 @@ Each Kiwi is built to take on one specific duty:
 ---
 
 <div align="center">
-<sub>Made with care by <a href="https://github.com/hajiboy95"><strong>Maikel</strong></a> · <a href="https://kiwicanopy.com"><strong>kiwicanopy.com</strong></a> · Because our time is precious 🥝</sub>
+<sub>Made with care by <a href="https://github.com/hajiboy95"><strong>Maikel Hajiabadi</strong></a> · <a href="https://kiwicanopy.com"><strong>kiwicanopy.com</strong></a> · Because our time is precious 🥝</sub>
 </div>
 
