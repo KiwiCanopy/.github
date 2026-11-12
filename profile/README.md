@@ -6,13 +6,14 @@
 
 ### Because our time is precious, I grow Kiwis for the boring stuff. 🥝
 
-Home of KiwiDesk, KiwiCV & more · **[kiwicanopy.com](https://kiwicanopy.com)**
+Home of KiwiDesk, KiwiCV, KiwiCall & more · **[kiwicanopy.com](https://kiwicanopy.com)**
 
 <br>
 
 [![Visit kiwicanopy.com](https://img.shields.io/badge/🥝_kiwicanopy.com-8DB354?style=for-the-badge)](https://kiwicanopy.com)
 [![KiwiDesk](https://img.shields.io/badge/🖥️_KiwiDesk-AACB5D?style=for-the-badge)](https://kiwidesk.kiwicanopy.com)
 [![KiwiCV](https://img.shields.io/badge/📄_KiwiCV-627D3A?style=for-the-badge)](https://kiwicv.kiwicanopy.com)
+[![KiwiCall](https://img.shields.io/badge/📞_KiwiCall-2B9449?style=for-the-badge)](https://kiwicall.kiwicanopy.com)
 [![Support on Ko-fi](https://img.shields.io/badge/Support_on_Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/kiwicanopy)
 
 </div>
@@ -31,6 +32,7 @@ Each Kiwi is built to take on one specific duty:
 
 - 🖥️ **[KiwiDesk](https://kiwidesk.kiwicanopy.com)** — *The desktop you always wished for.* A modular tiling window manager for macOS that arranges your windows, opens apps with shortcuts, and remembers your layouts.
 - 📄 **[KiwiCV](https://kiwicv.kiwicanopy.com)** — *Build a CV you're proud of.* A friendly résumé builder that turns your experience into a clean, modern CV without wrestling a word processor.
+- 📞 **[KiwiCall](https://kiwicall.kiwicanopy.com)** — *Don't let sudden calls interrupt your flow.* An Android phone app that reminds you of planned calls, lets you decline a call and plan the callback, and keeps dialing until someone answers.
 
 ## Principles
 
