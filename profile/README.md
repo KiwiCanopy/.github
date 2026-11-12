@@ -32,7 +32,7 @@ Each Kiwi is built to take on one specific duty:
 
 - 🖥️ **[KiwiDesk](https://kiwidesk.kiwicanopy.com)** — *Tiling that feels like it shipped with macOS.* Stop wasting time dragging windows around: KiwiDesk arranges them for you, opens apps with a shortcut, and remembers your layouts. Mouse or keyboard, your call, and out of your way.
 - 📄 **[KiwiCV](https://kiwicv.kiwicanopy.com)** — *Your CV, tailored to every job ad.* A job-specific application in seconds: paste the ad and KiwiCV tailors your CV and drafts the matching cover letter for you to review. Editing and PDF export stay free; AI comes with a Pass.
-- 📞 **[KiwiCall](https://kiwicall.kiwicanopy.com)** — *Don't let sudden calls interrupt your flow.* An Android phone app that reminds you of planned calls, lets you decline a call and plan the callback, and keeps dialing until someone answers.
+- 📞 **[KiwiCall](https://kiwicall.kiwicanopy.com)** — *Phone calls when it suits **you**.* An Android phone app that reminds you of planned calls, lets you decline a call and plan the callback, and keeps dialing until someone answers.
 
 ## Principles
 
