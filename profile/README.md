@@ -14,6 +14,7 @@ Home of KiwiDesk, KiwiCV, KiwiCall & more · **[kiwicanopy.com](https://kiwicano
 [![KiwiDesk](https://img.shields.io/badge/🖥️_KiwiDesk-AACB5D?style=for-the-badge)](https://kiwidesk.kiwicanopy.com)
 [![KiwiCV](https://img.shields.io/badge/📄_KiwiCV-627D3A?style=for-the-badge)](https://kiwicv.kiwicanopy.com)
 [![KiwiCall](https://img.shields.io/badge/📞_KiwiCall-2B9449?style=for-the-badge)](https://kiwicall.kiwicanopy.com)
+[![KiwiCanopy on LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/kiwicanopy/)
 [![Support on Ko-fi](https://img.shields.io/badge/Support_on_Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/kiwicanopy)
 
 </div>
